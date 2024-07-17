@@ -1,0 +1,45 @@
+:root{
+  --clr-dark: #0f0c0b;
+  --clr-slate800: #0d1b2a;
+  --clr-slate600: #1b263b;
+  --clr-slate500:  #364b63;
+  --clr-slate400: #415a77;
+  --clr-slate300: #778da9;
+  --clr-light: #e0e1dd;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box; 
+}
+* {
+  margin: 0;
+}
+html, body{
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+
+}
+html {
+  /* background: linear-gradient(135deg, #415a77, #1b263b);  */
+  /* background: linear-gradient(135deg, #23395d, #415a77, #738fa7); */
+  background: linear-gradient(135deg, #23395d, #415a77, #738fa7, #23395d); /* Complex gradient background */
+
+  color: var(--clr-light);
+  text-align: center;
+}
+
+
+.App{
+  position: relative;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  font-family: "Cormorant";
+  flex-direction: column;
+}
+
+
