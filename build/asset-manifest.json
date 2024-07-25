@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5a91451.css",
+    "main.js": "/static/js/main.e2c942ef.js",
+    "static/js/453.304c1d08.chunk.js": "/static/js/453.304c1d08.chunk.js",
+    "static/media/697897__johnnie_holiday__jh-alarm-clock-1.wav": "/static/media/697897__johnnie_holiday__jh-alarm-clock-1.1cd3869cb560d5a462eb.wav",
+    "static/media/457454__rudmer_rotteveel__karabiner_click_04.wav": "/static/media/457454__rudmer_rotteveel__karabiner_click_04.41e94b12f8391cf711df.wav",
+    "static/media/67091__sunnysidesound__pop_5.wav": "/static/media/67091__sunnysidesound__pop_5.49bca790e92bc3878b0d.wav",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e5a91451.css.map": "/static/css/main.e5a91451.css.map",
+    "main.e2c942ef.js.map": "/static/js/main.e2c942ef.js.map",
+    "453.304c1d08.chunk.js.map": "/static/js/453.304c1d08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a91451.css",
+    "static/js/main.e2c942ef.js"
+  ]
+}
