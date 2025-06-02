@@ -35,7 +35,9 @@ function Tasks() {
              type='text'
              value={task}
              onChange={handleChange}
-             placeholder='Add your task'>
+             placeholder='Add your task'
+             style={{paddingLeft:'20px'}}>
+
 
              </input>
             <input 
